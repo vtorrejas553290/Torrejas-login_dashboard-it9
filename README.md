@@ -120,8 +120,3 @@ This project was created to practice:
 
 ## 👤 Author
 **Vincent Torrejas**
-
----
-
-## 📄 License
-This project is for educational purposes only.
